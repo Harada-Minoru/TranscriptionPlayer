@@ -15,7 +15,7 @@
 - 再生位置を hh:mm:ss の形式でクリップボードにコピー可能
 
 ## セットアップ方法
-1. ZipファイルをGitHubからダウンロード
+1. Zipファイルを[GitHub](https://github.com/Harada-Minoru/TranscriptionPlayer/blob/main/%E3%83%86%E3%83%BC%E3%83%97%E8%B5%B7%E3%81%93%E3%81%97%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC.zip)からダウンロード
 
 <img width="914" alt="image" src="https://user-images.githubusercontent.com/102857572/222121373-6b133b08-97ad-4b05-92c9-10ebfeae3796.png">
 
